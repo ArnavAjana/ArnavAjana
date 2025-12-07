@@ -1,11 +1,4 @@
-# Build outputs
-built/
-pxt_modules/
-node_modules/
-yotta_modules/
-yotta_targets/
-
-# Editor settings
-.vscode/
-*.db
-*.cache
+node_modules
+.DS_Store
+dist
+npm-debug.log*
