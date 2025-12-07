@@ -2,22 +2,26 @@
 
 
 
+## Gameplay
+
+Galga is a simple side-scrolling space shooter. Pilot the space plane, dodge oncoming bogies, and shoot them down to rack up points. The ship stays on screen, has three lives by default, and fires projectiles with the **A** button.
+
 ## Use this extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
+* Open https://arcade.makecode.com/
+* Click on **New Project**
+* Click on **Extensions** under the gearwheel menu
+* Search for the URL of this repository and import
 
 ## Edit this extension
 
-To edit this repository in MakeCode.
+To edit this repository in MakeCode:
 
-* open https://arcade.makecode.com/
-* click on **Import** then click on **Import URL**
-* paste the repository URL and click import
+* Open https://arcade.makecode.com/
+* Click on **Import** then click on **Import URL**
+* Paste the repository URL and click import
 
 ## Blocks preview
 

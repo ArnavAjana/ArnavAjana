@@ -1,8 +1,11 @@
-built
-node_modules
-yotta_modules
-yotta_targets
-pxt_modules
+# Build outputs
+built/
+pxt_modules/
+node_modules/
+yotta_modules/
+yotta_targets/
+
+# Editor settings
+.vscode/
 *.db
-*.tgz
-.header.json
+*.cache
